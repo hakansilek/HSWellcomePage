@@ -87,3 +87,7 @@ You can build an intro page with this repository.
 
 hakansilek, silekhakan@gmail.com
 
+## License
+
+HSWellcomePage is available under the MIT license. See the LICENSE file for more info.
+
